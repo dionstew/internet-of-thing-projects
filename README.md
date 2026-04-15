@@ -5,5 +5,5 @@ Laman ini bisa digunakan juga sebagai repo cadangan anda untuk menyimpan program
 
 ## Cara menggunakan
 1.  Ajukan branch baru pada repository ini dengan nama kelompok Anda atau nama proyek anda.
-2.  Clone repository dengan menggunakan tag "-b <nama-branch-anda>"
-   `git clone "link-repository" -b <nama-branch>`
+2.  Clone repository dengan menggunakan tag "-b"
+   <`git clone "link-repository" -b <nama-branch>`>
